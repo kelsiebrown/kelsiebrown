@@ -2,7 +2,7 @@
 
 <hr>
 
-I'm a front-end software engineer based in Seattle, WA entering the second year of my career. Most recently, I worked on a team utilizing Twig/PHP/Symfony, Vue.js/Nuxt, HTML, Sass, and TypeScript. I've been working with HTML for almost 3 years professionally, and nearly a decade as a hobby.
+I'm a software engineer based in Seattle, WA entering the second year of my career. Most recently, I worked on a team utilizing Twig/PHP/Symfony, Vue.js/Nuxt, HTML, Sass, and TypeScript. I've been working with HTML for almost 3 years professionally, and nearly a decade as a hobby.
 
 I have a well-rounded, full-stack education consiting of a web development certificate from Seattle Central College (2019) and an intensive, bootcamp-style internal training program (2021). Although I work primarily in the front end, I also have experience with and am comfortable navigating setups with Node.js, Docker, SQL, and Python.
 
